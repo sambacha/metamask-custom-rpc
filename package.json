@@ -279,7 +279,7 @@
     "sass-loader": "^7.0.1",
     "selenium-webdriver": "^4.0.0-alpha.5",
     "serve-handler": "^6.1.2",
-    "ses": "0.11.0",
+    "ses": "0.13.1",
     "sesify": "^4.2.1",
     "sesify-viz": "^3.0.10",
     "sinon": "^9.0.0",
